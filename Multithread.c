@@ -1,4 +1,4 @@
-Atualizações nos atalhos do teclado … Em quinta-feira, 1 de agosto de 2024, os atalhos de teclado do Drive serão atualizados para oferecer a navegação por letras iniciais.Saiba mais
+//Atualizações nos atalhos do teclado … Em quinta-feira, 1 de agosto de 2024, os atalhos de teclado do Drive serão atualizados para oferecer a navegação por letras iniciais.Saiba mais
 // Trabalho de Sistemas Operacionais TT304 | Prof. André Leon S. Gradvohl
 // Autores:
 // Danilo Barcellos Corrêa | RA: 193740

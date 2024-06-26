@@ -1,0 +1,4 @@
+./main T n arqA.dat arqB.dat arqC.dat arqD.dat arqE.dat
+
+T = threads
+n = dimensão da matriz quadrada
